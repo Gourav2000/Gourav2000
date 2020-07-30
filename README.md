@@ -13,7 +13,7 @@
   <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://i.gifer.com/1I1F.gif" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/6heBQSjt2IoA8/giphy.gif?cid=ecf05e472f30c733da45797cd3588b4ae0905053fefb7e54&rid=giphy.gif" />
 
 ### I am Gourav Sarkar
 - An Application development & Open Source enthusiast.
