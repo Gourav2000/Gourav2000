@@ -38,4 +38,4 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav2000&theme=radical&langs_count=9&hide=CSS" />
+
