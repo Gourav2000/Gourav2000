@@ -15,6 +15,8 @@
 <br />
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/6heBQSjt2IoA8/giphy.gif?cid=ecf05e472f30c733da45797cd3588b4ae0905053fefb7e54&rid=giphy.gif" />
 
+<img src=https://profile-counter.glitch.me/Gourav2000/count.svg/>
+
 ### I am Gourav Sarkar
 - An Application development & Open Source enthusiast.
 - A Computer Engineering Undergraduate Student. 
