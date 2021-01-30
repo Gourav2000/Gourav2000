@@ -41,7 +41,6 @@
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-blue?logo=google%20cloud&logoColor=white)](https://cloud.google.com/)
-[![Linux](https://img.shields.io/badge/-Linux-003791?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
 
 
 
