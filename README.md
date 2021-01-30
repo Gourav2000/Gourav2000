@@ -41,9 +41,6 @@
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-blue?logo=google%20cloud&logoColor=white)](https://cloud.google.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-brightgreen?logo=Android%20Studio&logoColor=white)](https://developer.android.com/)
-[![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-yellow?logo=Google%20Chrome&logoColor=white)](https://developer.chrome.com/docs/extensions/)
 [![Linux](https://img.shields.io/badge/-Linux-003791?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
 
 
