@@ -24,18 +24,34 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ### Languages and tools-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://nexso.gallerycdn.vsassets.io/extensions/nexso/azure-devops-google-cloud-tools/1.0.60/1603340769472/Microsoft.VisualStudio.Services.Icons.Default"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+[![Cpp](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-FF9800?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-FF9800?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
+
+[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-orange?logo=express&logoColor=white)](https://expressjs.com/)
+[![Electron.js](https://img.shields.io/badge/Electron.js-lightgrey?logo=electron&logoColor=white)](https://www.electronjs.org/)
+
+[![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-brightgreen?logo=Android%20Studio&logoColor=white)](https://developer.android.com/)
+[![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-yellow?logo=Google%20Chrome&logoColor=white)](https://developer.chrome.com/docs/extensions/)
+
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-blue?logo=google%20cloud&logoColor=white)](https://cloud.google.com/)
+
+[![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-brightgreen?logo=Android%20Studio&logoColor=white)](https://developer.android.com/)
+[![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-yellow?logo=Google%20Chrome&logoColor=white)](https://developer.chrome.com/docs/extensions/)
+
+[![Linux](https://img.shields.io/badge/-Linux-003791?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
 
 
 
