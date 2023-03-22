@@ -19,7 +19,7 @@
 
 ### I am Gourav Sarkar
 - An Application development & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
+- A Software Engineer. 
 - Currently working on some of my cool side projects based on Mobile App Development and Serverless technologies.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
