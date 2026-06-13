@@ -2,7 +2,7 @@
 
 **SDE-2 @ ServiceNow** · Hyderabad, India
 
-Software engineer with 5+ years of experience building scalable backend systems, AI-powered applications, and full-stack products. I work on production-grade distributed systems at ServiceNow and spend my nights shipping side projects — from local AI code assistants to REST APIs to mobile apps. I've built across the stack in 9+ languages, shipped to cloud and mobile, and lately have been deep in the AI/ML space exploring LLMs, RAG pipelines, and agentic systems.
+Software engineer with 5+ years of experience building scalable backend systems, AI-powered applications, and full-stack products. I work on production-grade distributed systems at ServiceNow and spend my nights shipping side projects, from local AI code assistants to REST APIs to mobile apps. I've built across the stack, shipped to cloud and mobile, and lately have been deep in the AI/ML space exploring LLMs, RAG pipelines, and agentic systems.
 
 Always open to interesting conversations, collaborations, and open source contributions.
 
@@ -34,8 +34,8 @@ Always open to interesting conversations, collaborations, and open source contri
 
 | Project | Description |
 |---------|-------------|
-| [safalAi](https://github.com/Gourav2000/safalAi-frontend) | Full-stack AI web application with a Python backend and React frontend, built around LLM capabilities |
 | [DevForge](https://github.com/Gourav2000/DevForge) | Local CLI AI code assistant that runs entirely on your machine, no cloud required |
+| [GlimpseDesk](https://github.com/Gourav2000/GlimpseDesk) | VS Code-style desktop file and media explorer built with Electron, fully local with video and markdown preview |
 | [CyberCalender](https://github.com/Gourav2000/CyberCalender) | Rainmeter desktop skin with live Google Calendar integration, built in Lua |
 | [Covid-19 Status API](https://github.com/Gourav2000/Covid-19_status) | Containerized REST API serving real-time COVID-19 statistics for India and worldwide |
 | [Cryptographic Algorithms](https://github.com/Gourav2000/Cryptographic-Encryptipon-Algorithms) | A deep-dive library of encryption techniques from classical ciphers to modern cryptography |
