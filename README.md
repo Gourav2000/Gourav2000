@@ -15,7 +15,7 @@
 
 ---
 
-**SDE-2 @ ServiceNow** · Kolkata, India
+**SDE-2 @ ServiceNow** · Hyderabad, India
 
 I build things — production software by day, side projects by night. Currently focused on AI tooling, full-stack web apps, and serverless architectures. Open source enthusiast with 50+ public repos spanning mobile, backend, desktop, and ML.
 
