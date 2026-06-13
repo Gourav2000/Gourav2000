@@ -1,35 +1,44 @@
 # Hi, I'm Gourav Sarkar 👋
 
-<a href="https://www.linkedin.com/in/gourav-sarkar-439026191/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gourav%20Sarkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Gourav2000">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Gourav2000-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/sarkargourav000">
-  <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-sarkargourav000-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://gourav2000.github.io/MyPortfolio/">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-gourav2000.github.io-FF5722?style=flat-square&logo=firefox&logoColor=white" />
-</a>
+**SDE-2 @ ServiceNow** · Hyderabad, India
+
+Software engineer with 5+ years of experience building scalable backend systems, AI-powered applications, and full-stack products. I work on production-grade distributed systems at ServiceNow and spend my nights shipping side projects — from local AI code assistants to REST APIs to mobile apps. I've built across the stack in 9+ languages, shipped to cloud and mobile, and lately have been deep in the AI/ML space exploring LLMs, RAG pipelines, and agentic systems.
+
+Always open to interesting conversations, collaborations, and open source contributions.
 
 ---
 
-**SDE-2 @ ServiceNow** · Hyderabad, India
+## Connect with me
 
-I build things — production software by day, side projects by night. Currently focused on AI tooling, full-stack web apps, and serverless architectures. Open source enthusiast with 50+ public repos spanning mobile, backend, desktop, and ML.
+<p>
+  <a href="https://www.linkedin.com/in/gourav-sarkar-439026191/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://gourav2000.github.io/MyPortfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-See%20my%20work-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/sarkargourav000">
+    <img src="https://img.shields.io/badge/HackerRank-Solve%20with%20me-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:sarkargourav000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [safalAi](https://github.com/Gourav2000/safalAi-frontend) | AI-powered web app (frontend + backend) | React, Python |
-| [DevForge](https://github.com/Gourav2000/DevForge) | Local CLI AI code assistant | Node.js |
-| [CyberCalender](https://github.com/Gourav2000/CyberCalender) | Rainmeter skin with Google Calendar integration | Lua |
-| [Covid-19 Status API](https://github.com/Gourav2000/Covid-19_status) | REST API for COVID-19 stats — India & worldwide | Python, Flask, Docker |
-| [Cryptographic Algorithms](https://github.com/Gourav2000/Cryptographic-Encryptipon-Algorithms) | Encryption techniques from Caesar cipher to modern algos | Python |
+| Project | Description |
+|---------|-------------|
+| [safalAi](https://github.com/Gourav2000/safalAi-frontend) | Full-stack AI web application with a Python backend and React frontend, built around LLM capabilities |
+| [DevForge](https://github.com/Gourav2000/DevForge) | Local CLI AI code assistant that runs entirely on your machine, no cloud required |
+| [CyberCalender](https://github.com/Gourav2000/CyberCalender) | Rainmeter desktop skin with live Google Calendar integration, built in Lua |
+| [Covid-19 Status API](https://github.com/Gourav2000/Covid-19_status) | Containerized REST API serving real-time COVID-19 statistics for India and worldwide |
+| [Cryptographic Algorithms](https://github.com/Gourav2000/Cryptographic-Encryptipon-Algorithms) | A deep-dive library of encryption techniques from classical ciphers to modern cryptography |
 
 ---
 
@@ -37,27 +46,42 @@ I build things — production software by day, side projects by night. Currently
 
 **Languages**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-**Frameworks & Tools**
+**Backend and Frameworks**
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6F00?style=flat-square&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=flat-square&logo=apachekafka&logoColor=white)
 
-**Cloud & DevOps**
+**Cloud and Tools**
 
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://developer.chrome.com/docs/extensions/)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat-square&logo=githubactions&logoColor=white)
+
+**AI and ML**
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=semanticscholar&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-00C7B7?style=flat-square&logo=probot&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-764ABC?style=flat-square&logo=pinecone&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-FF9900?style=flat-square&logo=apachespark&logoColor=white)
 
 ---
 
