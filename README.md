@@ -16,11 +16,11 @@ Always open to interesting conversations, collaborations, and open source contri
   </a>
   &nbsp;
   <a href="https://gourav2000.github.io/MyPortfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-See%20my%20work-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-See%20my%20work-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.hackerrank.com/sarkargourav000">
-    <img src="https://img.shields.io/badge/HackerRank-Solve%20with%20me-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <a href="https://leetcode.com/u/gouravsarkar67">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:sarkargourav000@gmail.com">
